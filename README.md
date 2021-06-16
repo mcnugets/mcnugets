@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 AYO 👋 
+<h3 align="center"> 👋🏻 AYO 👋🏻 </h3>
 
 <!--
 **mcnugets/mcnugets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
