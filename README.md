@@ -1,4 +1,8 @@
-<h3 > 👋🏻 <span color="red">A</span><span color="green">Y</span><span color="blue">O</span> 👋🏻 ,</h3>
+<img src="https://i.imgur.com/alXY0Fg.gif" >
+
+-------------------------------------------
+
+<h4 > 👋🏻 <span color="red">A</span><span color="green">Y</span><span color="blue">O</span> 👋🏻 ,</h3>
 
 <!--
 **mcnugets/mcnugets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
